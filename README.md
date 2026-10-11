@@ -1,5 +1,7 @@
 # Engenharia de Dados com Azure Databricks
 
+<p align="center"><img src="assets/azure-databricks.svg" alt="Azure Databricks — engenharia de dados" width="520"></p>
+
 Este repositório reúne exemplos práticos de engenharia de dados, organizados por tema. Cada pasta contém um notebook e um guia com o objetivo e os passos para executá-lo.
 
 ## Conteúdo
@@ -23,3 +25,4 @@ Este repositório reúne exemplos práticos de engenharia de dados, organizados 
 4. Execute as etapas do notebook na ordem apresentada.
 
 Alguns exemplos criam recursos no workspace e podem gerar custos de computação.
+

@@ -1,5 +1,7 @@
 # Modelagem de dados
 
+<p align="center"><img src="../assets/azure-databricks.svg" alt="Azure Databricks — engenharia de dados" width="520"></p>
+
 ## Objetivo
 
 Modele dados financeiros com dimensão de clientes SCD Tipo 2, fatos de transações e recursos Delta para auditoria e consulta histórica.
@@ -19,4 +21,5 @@ Modele dados financeiros com dimensão de clientes SCD Tipo 2, fatos de transaç
 2. Selecione o compute indicado em **Requisitos**.
 3. Leia as instruções de cada seção e execute as células na ordem do notebook.
 4. Confira as tabelas, métricas ou resultados produzidos ao final.
+
 

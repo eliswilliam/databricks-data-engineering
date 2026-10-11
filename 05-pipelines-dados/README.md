@@ -1,5 +1,7 @@
 # Pipelines de dados
 
+<p align="center"><img src="../assets/azure-databricks.svg" alt="Azure Databricks — engenharia de dados" width="520"></p>
+
 ## Objetivo
 
 Construa um fluxo Bronze, Silver e Gold para reservas, com validação, parâmetros, tratamento de erros e execução orquestrada.
@@ -19,4 +21,5 @@ Construa um fluxo Bronze, Silver e Gold para reservas, com validação, parâmet
 2. Selecione o compute indicado em **Requisitos**.
 3. Leia as instruções de cada seção e execute as células na ordem do notebook.
 4. Confira as tabelas, métricas ou resultados produzidos ao final.
+
 

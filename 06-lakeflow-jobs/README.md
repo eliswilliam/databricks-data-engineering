@@ -1,5 +1,7 @@
 # Orquestração com Lakeflow Jobs
 
+<p align="center"><img src="../assets/azure-databricks.svg" alt="Azure Databricks — engenharia de dados" width="520"></p>
+
 ## Objetivo
 
 Processe registros de chamadas de telecomunicações e configure tarefas dependentes, parâmetros, gatilhos, agenda, alertas e tentativas automáticas.
@@ -19,4 +21,5 @@ Processe registros de chamadas de telecomunicações e configure tarefas depende
 2. Selecione o compute indicado em **Requisitos**.
 3. Leia as instruções de cada seção e execute as células na ordem do notebook.
 4. Confira as tabelas, métricas ou resultados produzidos ao final.
+
 
